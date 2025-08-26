@@ -1,0 +1,10 @@
+{
+  "title": "test",
+  "startTime": "2025-08-26 21:45:00",
+  "endTime": "2025-08-26 23:45:00",
+  "description": "test",
+  "user":{
+    "id":1
+  }
+
+}
